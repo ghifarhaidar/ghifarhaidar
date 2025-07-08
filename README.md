@@ -46,7 +46,7 @@ Hello! I'm a Software Engineer with expertise in **Artificial Intelligence**, **
 Feel free to reach out if you want to collaborate or discuss new opportunities!
 
 ---
-
+ 
 # 🎯 **Open to:**
 
 * Full-Stack Development
