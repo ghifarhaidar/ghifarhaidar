@@ -41,7 +41,6 @@ Hello! I'm a Software Engineer with expertise in **Artificial Intelligence**, **
 # 🤝 **Connect with Me**
 
 * [LinkedIn](https://www.linkedin.com/in/ghifar-haidar-90238523a)
-* [Portfolio](https://your-portfolio-link.com)
 * [Email](mailto:ghifarh13@gmail.com)
 
 Feel free to reach out if you want to collaborate or discuss new opportunities!
