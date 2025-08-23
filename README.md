@@ -1,60 +1,62 @@
 # 💻 **About Me**
 
-Hello! I'm a Software Engineer with expertise in **Artificial Intelligence**, **Web Development**, **Mobile App Development**, and **Competative Programming**. I have a strong foundation in **Data Structures & Algorithms** and hands-on experience in building scalable applications and intelligent systems.
+Hello! I'm a **Software Engineer** specializing in **Backend Development** with expertise in **Spring Boot**, **ASP.NET Core**, and **RESTful APIs**.  
+I have strong experience in **database design**, **system architecture**, and **scalable server-side applications**, backed by a solid foundation in **Data Structures & Algorithms** and **Competitive Programming**.  
 
-* 🔭 Currently working on **PlanPal** — A smart trip planner app with calendar, map integration, expense tracking, and more.
-* 🌱 Learning advanced **data mining techniques** and exploring **network security**.
-* 💡 Passionate about solving complex problems and contributing to open-source projects.
+* 🔭 Currently working on **PlanPal** — a feature-rich trip planner app with calendar, maps, expense tracking, and more.  
+* ✅ Recently completed **cloud-scheduling-using-mo-lca** — a modular system for cloud task scheduling and algorithm comparison.  
+* 🌱 Expanding knowledge in **distributed systems**, **microservices**, and **cloud-native architectures**.  
+* 💡 Passionate about building robust backend systems, solving complex problems, and contributing to open-source projects.  
+
 
 ---
 
 # 🚀 **Tech Stack**
 
-* **Languages:** JavaScript (React, TypeScript), Java (Android), C#, Python, C++, PHP
-* **Web:** ASP.NET, React, OpenCart
-* **Mobile:** Android (Java)
-* **AI & ML:** Scikit-Learn, MLflow
-* **Databases:** MySQL, MongoDB
-* **Tools & Platforms:** Docker, Git, GitHub Actions, Linux
+* **Languages:** Java, C#, Python, C++, JavaScript/TypeScript, PHP  
+* **Backend Frameworks:** Spring Boot, ASP.NET Core, Node.js (Express)  
+* **Databases:** MySQL, PostgreSQL, SQL Server, MongoDB  
+* **Frontend (for integration):** React, TypeScript  
+* **AI & ML:** Scikit-Learn, MLflow  
+* **Tools & Platforms:** Docker, Git, GitHub Actions, Linux, Maven, Postman, Swagger  
 
 ---
 
 # 🔎 **Projects**
 
-| Project              | Description                                                            | Technologies                 |
-| -------------------- | ---------------------------------------------------------------------- | ---------------------------- |
-| **cloud-scheduling-using-mo-lca**   | A tool for evaluating and comparing cloud scheduling algorithms in simulated environments.           | Node.js, Python, Java, React    |
-| **RecipeMate**       | An Android app for managing recipes and shopping lists.                | Java, Android SDK            |
-| **Pharmacy Portal**  | ASP.NET-based website for managing pharmacy-patient interactions.      | ASP.NET, C#, SQL             |
-| **AI Recommender**   | An e-commerce recommendation system with MLflow integration.           | OpenCart, MLflow, Python     |
-| **PlanPal**          | A feature-rich trip planner with calendar, maps, and expense tracking. | React, TypeScript, Mantine   |
-
+| Project                                | Description                                                                 | Technologies                        |
+| -------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------- |
+| **PlanPal**                            | A trip planner app with maps, calendar, and expenses.                        | Spring Boot, React, TypeScript          |
+| **cloud-scheduling-using-mo-lca**      | Multi-objective cloud scheduling with MO-LCA, integrated with CloudSim-Plus. | Python, Node.js, Java, React        |
+| **Library Management System**          | Spring Boot backend with REST APIs and MySQL for CRUD and borrowing logic.   | Spring Boot, MySQL, Swagger         |
+| **Pharmacy Portal**                    | ASP.NET-based web platform for pharmacy-patient interactions.                | ASP.NET Core, C#, SQL Server        |
+| **AI Recommender**                     | E-commerce recommendation engine with MLflow and backend integration.        | PHP (OpenCart), Python, MLflow      |
+| **RecipeMate**                         | Android app for managing recipes and shopping lists.                         | Java, Android SDK, SQLite           |
 
 ---
 
 # 📊 **GitHub Stats**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghifarhaidar\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghifarhaidar\&layout=compact\&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghifarhaidar&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ghifarhaidar&layout=compact&theme=radical)  
 
 ---
 
 # 🤝 **Connect with Me**
 
-* [LinkedIn](https://www.linkedin.com/in/ghifar-haidar-90238523a)
-* [Email](mailto:ghifarh13@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/ghifar-haidar-90238523a)  
+* [Email](mailto:ghifarh13@gmail.com)  
 
-Feel free to reach out if you want to collaborate or discuss new opportunities!
+Feel free to reach out if you want to collaborate or discuss new opportunities!  
 
 ---
- 
+
 # 🎯 **Open to:**
 
-* Front-End Development
-* Full-Stack Development
-* Android App Development
-* AI and Machine Learning Projects
-* Data Mining and Analysis
+* Backend Development (Spring Boot, ASP.NET Core, Node.js)  
+* API Development & Integration  
+* Database Design & Optimization  
+* Cloud Computing & Scheduling Research  
+* AI and Machine Learning Projects  
 
 *Let's build something amazing together!* 🚀
